@@ -1,0 +1,7 @@
+('C:\\Users\\Dallas\\Desktop\\tunedelta\\icons',
+ 'icons',
+ [],
+ 'DATA',
+ [('icons\\bom.jpg',
+   'C:\\Users\\Dallas\\Desktop\\tunedelta\\icons\\bom.jpg',
+   'DATA')])
