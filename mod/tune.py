@@ -18,7 +18,7 @@ class TUNE:
 
         with open(filename) as f:
             next(f)
-            index = 2
+            index = 1
             data = []
             for line in f:
                 data.append(line[(len(str(index))+1):(len(str(index))+7)])
